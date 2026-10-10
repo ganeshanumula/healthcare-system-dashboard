@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines healthcare management by enabling patients to book appointments, access reports, view doctor profiles, and manage prescriptions and reminders.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
